@@ -27,6 +27,6 @@
 
 ## Connect with me:
 
-<a href = "https://wwwhttps://www.linkedin.com/in/varun-amin-238336217/."><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/varun-amin-238336217/."><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/aminbittu/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/varun_amin_94/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
