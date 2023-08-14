@@ -18,5 +18,4 @@
     
 </p>
 
-## Connect
-<a href = "https://www.instagram.com/varun_amin_94/"><a target="_blank" href="https://icons8.com/icon/32292/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
