@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on 2D Game
 
 - 🌱 I’m currently learning **python.**
+-  I'm based in INDIA
 
 
 ## 🚀 Skills
