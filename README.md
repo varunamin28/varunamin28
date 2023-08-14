@@ -1,21 +1,13 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Varun</h1>
-
-
-
-
-# Varun Amin
+# My name is Varun. I am on a journey to learn as much as I can about everything!
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Home Service Web App Name(On The Way)**
+- 🔭 I’m currently working on 2D Game
 
 - 🌱 I’m currently learning **python.**
 
-- 📫 How to reach me **varunamin28@gmail.com**
 
-
-## 🚀 Languages and Tools:
+## 🚀 Skills
 
 <p align="left"> 
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -25,8 +17,5 @@
     
 </p>
 
-## Connect with me:
-
-<a href = "https://www.linkedin.com/in/varun-amin-238336217/."><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/aminbittu/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+## Connect
 <a href = "https://www.instagram.com/varun_amin_94/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
